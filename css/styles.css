@@ -123,7 +123,16 @@ color: #404bbf;
     
 /*Hero styles*/
 .hero{
-background-color: #2e2f42;
+background-color: rgba(46, 47, 66, 0.7);
+background-image: linear-gradient(
+rgba(46, 47, 66, 0.7),
+rgba(46, 47, 66, 0.7)
+),
+ url(../images/images-index/bk/bk-hero.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
 padding: 188px 0;
 }
 .hero-title{
