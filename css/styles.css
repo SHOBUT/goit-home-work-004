@@ -110,8 +110,10 @@ bottom: -1px;
 width: 100%;
 height: 4px;
 background-color: #404bbf;
-color: #404bbf;
 border-radius: 2px;
+}
+.current-header{
+color: #404bbf;
 }
 .list-item:hover{
 color: #404bbf;
