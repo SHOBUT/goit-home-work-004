@@ -415,3 +415,28 @@ width: 1158px;
 margin: 0 auto;
 padding: 0 15px;
 }
+
+/* Modal */
+.backdrop{
+background-color:rgba(46, 47, 66, 0.4) ;
+width: 100%;
+height: 100%;
+position: fixed;
+left: 0;
+top: 0;
+}
+.modal{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%) scale(1);
+width: 408px;
+height: 584px;
+border-radius: 4px;
+background-color: var(--DAIRY, #FCFCFC);
+box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.20), 0px 1px 3px 0px rgba(0, 0, 0, 0.12), 0px 1px 1px 0px rgba(0, 0, 0, 0.14);
+
+}
+.modal-button{
+
+}
