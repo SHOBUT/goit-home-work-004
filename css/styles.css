@@ -438,5 +438,26 @@ box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.20), 0px 1px 3px 0px rgba(0, 0, 0, 0
 
 }
 .modal-button{
-
+position: absolute;
+top: 32px;
+right: 32px;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 24px;
+height: 24px;
+background-color: transparent;
+border: none;
+}
+.icon-close{
+fill: #2E2F42;
+}
+.modal-button:hover .icon-close,
+.modal-button:focus .icon-close{
+fill: #FFFFFF;
+}
+.is-hidden{
+opacity: 0;
+pointer-events: none;
+visibility: hidden;
 }
