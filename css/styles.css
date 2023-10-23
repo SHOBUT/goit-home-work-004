@@ -112,7 +112,7 @@ height: 4px;
 background-color: #404bbf;
 border-radius: 2px;
 }
-.current-header{
+.list-item.current{
 color: #404bbf;
 }
 .list-item:hover{
