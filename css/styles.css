@@ -424,8 +424,7 @@ height: 100%;
 position: fixed;
 left: 0;
 top: 0;
-transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 25ms cubic-bezier(0.4, 0, 0.2, 1), transform 400ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1), visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);}
 .modal{
 position: absolute;
 top: 50%;
