@@ -438,7 +438,7 @@ border-radius: 4px;
 background-color: var(--DAIRY, #FCFCFC);
 }
 .backdrop .id-hidden .modal{
-    transform: translateY(-100%), translateX(-0%) scale(0.4);
+transform: translateY(-100%), translateX(-0%) scale(0.4);
 }
 .modal-button{
 position: absolute;
