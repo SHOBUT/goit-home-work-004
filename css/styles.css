@@ -382,6 +382,9 @@ color: #8e8f99;
 border-color: #404bbf;
 color: #404bbf;
 }
+.customers-icon{
+fill: currentColor;
+}
 
 
 /*Footer styles*/
