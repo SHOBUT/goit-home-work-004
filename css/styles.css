@@ -414,9 +414,11 @@ margin-right: 76px;
 display: inline-block;
 margin-bottom: 16px;
 }
-.footer-container-2{
-margin-right: 120px;
+.footer-container{
+display: flex;
+align-items: baseline;
 }
+
     
 /*navigation-portfolio*/
 .navigation{
