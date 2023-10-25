@@ -505,6 +505,7 @@ border: 1px solid #e7e9fc;
 border-top: none;
 }
 .navigation-title{
+color: #2E2F42;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -516,6 +517,7 @@ margin-bottom: 8px;
 
 }
 .navigation-section{
+color: #2E2F42;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
