@@ -417,6 +417,8 @@ margin-bottom: 16px;
 .footer-container{
 display: flex;
 align-items: baseline;
+width: 1158px;
+padding: 0 15px;
 }
 
     
