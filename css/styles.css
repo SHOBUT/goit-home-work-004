@@ -418,10 +418,11 @@ margin-bottom: 16px;
 display: flex;
 align-items: baseline;
 width: 1158px;
-padding: 0 15px;
+padding: 0 156px;
+}
+.footer-tx{
 margin-right: 120px
 }
-
     
 /*navigation-portfolio*/
 .navigation{
