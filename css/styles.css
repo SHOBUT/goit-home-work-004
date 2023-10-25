@@ -325,11 +325,6 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 margin-bottom: 72px;
 }
-.customers-container{
-display: inline-flex;
-align-items: flex-start;
-gap: 24px;
-}
     
 /*Footer styles*/
 .footer{
