@@ -326,7 +326,9 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-.team-link-icon:hover,
+.team-link-icon:hover{
+background-color: #404bbf;
+}
 .team-link-icon:focus{
 background-color: #404bbf;
 }
