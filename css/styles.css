@@ -375,7 +375,15 @@ align-items: center;
 justify-content: center;
 color: #8e8f99;
 }
-    
+.customers-link:hover{
+border-color: #404bbf;
+color: #404bbf;
+}
+.customers-link:focus{
+border-color: #404bbf;
+color: #404bbf;
+}
+
 /*Footer styles*/
 .footer{
 background-color: #2e2f42;
