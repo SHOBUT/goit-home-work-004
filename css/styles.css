@@ -455,6 +455,8 @@ background-color: #31d0aa;
 }
 .footer-social-icon{
 fill: #f4f4fd;
+padding: 0;
+margin: 0;
 }
     
 /*navigation-portfolio*/
