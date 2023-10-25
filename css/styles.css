@@ -285,6 +285,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
+padding-bottom: 8px;
 }
 .team-socials{
 gap: 24px;
@@ -312,6 +313,7 @@ letter-spacing: 0.4px;
 display: flex;
 justify-content: center;
 gap: 24px;
+padding: 0;
 }
 .team-list-icon{
 width: 40px;
